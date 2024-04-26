@@ -1,7 +1,7 @@
 # Projeto_Sprint_5
 Dashboard de Análise de Dados de Veículos
 
-Esse aplicativo cria um Histrograma e um Gráfico de Dispesão.
+Esse aplicativo cria um Histrograma e um Gráfico de Dispersão.
 
 Histograma = conjunto de dados de anúncios de vendas de carros
 Gráfico de Dispersão = conjunto de dados de anúncios de vendas de carros
